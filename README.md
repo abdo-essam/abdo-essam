@@ -12,9 +12,9 @@
 Languages: `Arabic (Native)` , `English (Intermediate)` 
 
 
- ##My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
+ ## My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
 
-- 📫 How to reach me ##abdoessm743@gmail.com
+- 📫 How to reach me ## abdoessm743@gmail.com
 
 <!---
 abdo-essam/abdo-essam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
