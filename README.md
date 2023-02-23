@@ -7,7 +7,7 @@
 ###  Upgrading architecture of applications
 ###  Active teamwork, help to onboard new teammates, code review
 ###  Working by Scrum methodology
- ## Technical stack  
+ ## Technical skills  
  `Kotlin`  `Coroutines`  `Retrofit`  `OkHttp`  `Gson`  `Volley`  `Android Jetpack (View Binding, Room, Navigation, ViewModel)`  `Firebase`  `SQLite`  `Koin`  `Glide`  `Coil`  `Clean Architecture`  `MVVM`  `SOLID`  `Git`  `Jira`  `Figma`
 
 Languages: `Arabic (Native)` , `English (Intermediate)` 
