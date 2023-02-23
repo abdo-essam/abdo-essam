@@ -7,14 +7,14 @@
 ### - upgrading architecture of applications
 ### - active teamwork, help to onboard new teammates, code review
 ### - working by Scrum methodology
- `Technical stack` – `Kotlin` | `Coroutines` | `Retrofit` | `OkHttp` | `Gson` | `Volley` | `Android Jetpack (View Binding, Room, Navigation, ViewModel)` | `Firebase` | `SQLite` | `Koin` | `Glide` | `Coil` | `Clean Architecture` | `MVVM` | `SOLID` | `Git` | `Jira` | `Figma`
+ `Technical stack`  `Kotlin`  `Coroutines`  `Retrofit`  `OkHttp`  `Gson`  `Volley`  `Android Jetpack (View Binding, Room, Navigation, ViewModel)`  `Firebase`  `SQLite`  `Koin`  `Glide`  `Coil`  `Clean Architecture`  `MVVM`  `SOLID`  `Git`  `Jira`  `Figma`
 
 Languages: `Arabic (Native)` , `English (Intermediate)` 
 
 
- My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
+ ##My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
 
-- 📫 How to reach me abdoessm743@gmail.com
+- 📫 How to reach me ##abdoessm743@gmail.com
 
 <!---
 abdo-essam/abdo-essam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
