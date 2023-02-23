@@ -7,10 +7,14 @@
 ###  Upgrading architecture of applications
 ###  Active teamwork, help to onboard new teammates, code review
 ###  Working by Scrum methodology
+
+
  ## Technical skills  
  `Kotlin`    `Coroutines`    `Retrofit`    `OkHttp`    `Gson`    `Volley`    `Android Jetpack (View Binding, Room, Navigation, ViewModel)`    `Firebase`  `SQLite`    `Koin`    `Glide`    `Coil`    `Clean Architecture`    `MVVM`    `SOLID`    `Git`    `Jira`   `Figma`
+ 
 
 Languages: `Arabic (Native)` , `English (Intermediate)` 
+
 
 
  ## My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
