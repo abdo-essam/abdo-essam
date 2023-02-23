@@ -9,8 +9,14 @@
 ###  Working by Scrum methodology
 
 
+
+
+
  ## Technical skills  
  `Kotlin`    `Coroutines`    `Retrofit`    `OkHttp`    `Gson`    `Volley`    `Android Jetpack (View Binding, Room, Navigation, ViewModel)`    `Firebase`  `SQLite`    `Koin`    `Glide`    `Coil`    `Clean Architecture`    `MVVM`    `SOLID`    `Git`    `Jira`   `Figma`
+ 
+ 
+ 
  
 
 Languages: `Arabic (Native)` , `English (Intermediate)` 
