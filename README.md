@@ -25,7 +25,8 @@ Languages: `Arabic (Native)` , `English (Intermediate)`
 
  ## My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
 
-- 📫 How to reach me ![image](https://user-images.githubusercontent.com/92235360/221282443-f840a77a-e5bc-4da7-ab38-263bea5a1d4b.png)
+- 📫 How to reach me abdo-essam@hotmail.com
+
 
 
 <!---
