@@ -25,7 +25,7 @@ Languages: `Arabic (Native)` , `English (Intermediate)`
 
  ## My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
 
-- 📫 How to reach me abdo-essam@hotmail.com
+- 📫 How to reach me mailto:abdo-essam@hotmail.com
 
 
 
