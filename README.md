@@ -1,6 +1,6 @@
-                                               👋 Hi, I’m Abdo Essam Junior Android Developer 
-                                               👀 I’m interested in Mobile Development Career 
-## 🌱 I’m currently learning Native Android Development and attracted to companies that employ people who are really passionate about their business. When a friendly atmosphere reigns in the team, it inspires and allows you to concentrate better on work I'm developing mobile applications more than a year, and I have experience in 
+   # Hi, I’m Abdo Essam Junior Android Developer 
+   # I’m interested in Mobile Development Career 
+##  I’m currently learning Native Android Development and attracted to companies that employ people who are really passionate about their business. When a friendly atmosphere reigns in the team, it inspires and allows you to concentrate better on work I'm developing mobile applications more than a year, and I have experience in 
  
 ###  Managing features implementations
 ###  Configuration improvements
@@ -25,7 +25,8 @@ Languages: `Arabic (Native)` , `English (Intermediate)`
 
  ## My goal is to grow up to Software Solution Architect in order to be able to create my own project in the future.
 
-- 📫 How to reach me abdoessm743@gmail.com
+- 📫 How to reach me ![image](https://user-images.githubusercontent.com/92235360/221282443-f840a77a-e5bc-4da7-ab38-263bea5a1d4b.png)
+
 
 <!---
 abdo-essam/abdo-essam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
