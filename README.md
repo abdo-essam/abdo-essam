@@ -8,11 +8,12 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF725&background=9A7DFF00&repeat=false&width=435&height=51&lines=Hi%2C+;I%E2%80%99m+Abdo+Essam+Junior+Android+Developer+;I%E2%80%99m+interested+in+Mobile+Development+Career+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF725&background=9A7DFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I%E2%80%99m+Abdo+Essam+Junior+Android+Developer+;I%E2%80%99m+interested+in+Mobile+Development+Career+)](https://git.io/typing-svg)
 
 - 🏢 I'm a Software Engineer (Android Developer)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Android Development, Java, and Kotlin, or anything related to Mobile App development.
+- 👨‍💻 I’m currently learning Native Android Development and attracted to companies that employ people who are really passionate about their business. When a friendly        atmosphere reigns in the team, it inspires and allows you to concentrate better on work I'm developing mobile applications more than a year.
 
 
 
