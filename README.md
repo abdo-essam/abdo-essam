@@ -29,8 +29,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)&nbsp;
-
-
 ![json%20web%20tokens](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat&logo=json-web-tokens&logoColor=pink)&nbsp;
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python)&nbsp;
