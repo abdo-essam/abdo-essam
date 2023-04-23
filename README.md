@@ -8,7 +8,9 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EF725&background=9A7DFF00&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I%E2%80%99m+Abdo+Essam+Junior+Android+Developer+;I%E2%80%99m+interested+in+Mobile+Development+Career+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=5EF725&background=9A7DFF00&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I%E2%80%99m+Abdo+Essam+;Junior+Android+Developer+;I%E2%80%99m+interested+in+Mobile+Development+Career+)](https://git.io/typing-svg)
+
+
 
 - 🏢 I'm a Software Engineer (Android Developer)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
