@@ -5,13 +5,13 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=5EF725&background=9A7DFF00&center=true&vCenter=true&width=600&height=20&lines=Hi%2C+I%E2%80%99m+Abdo+Essam+;Junior+Android+Developer+;I%E2%80%99m+interested+in+Mobile+Development+Career+" alt="Typing SVG" /></a></p> 
 
-<br><br><br>
+<br>
 - 🏢 I'm a Software Engineer (Android Developer)
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Android Development, Java, and Kotlin, or anything related to Mobile App development.
 - 👨‍💻 I’m currently learning Native Android Development and attracted to companies that employ people who are really passionate about their business. When a friendly        atmosphere reigns in the team, it inspires and allows you to concentrate better on work I'm developing mobile applications more than a year.
 
-<br><br><br>
+<br>
 
 ### Connect with Me :
 
@@ -20,9 +20,7 @@
 <a href="https://www.sololearn.com/profile/11719429" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/abdoessam" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-<br><br><br>
-
-
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
