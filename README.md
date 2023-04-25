@@ -49,8 +49,13 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo-essam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdo-essam&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</p> 
+
 <br>
+
+<p align="center"> 
 <a href="https://komarev.com/ghpvc/?username=abdo-essam&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=abdo-essam&style=for-the-badge">
 </a>
+</p> 
