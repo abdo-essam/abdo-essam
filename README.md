@@ -6,11 +6,11 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2000&pause=1000&color=5EF725&background=9A7DFF00&center=true&vCenter=true&width=600&height=20&lines=Hi%2C+I%E2%80%99m+Abdo+Essam+;Junior+Android+Developer;Junior+Flutter+Developer;I%E2%80%99m+interested+in+Mobile+Development+Career+" alt="Typing SVG" /></a></p> 
 
 <br>
-🏢 I'm a Software Engineer.
-👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
-💬 Ask me about my experience with Android Development, Java, Kotlin, and Flutter, or anything related to Mobile App development.
-🚀 I have over a year of experience developing mobile applications, and I’m proficient in using Flutter to create high-performance, cross-platform apps for Android and iOS.
-👨‍💻 I’m currently advancing my skills in Native Android Development and Flutter App Development with enjoy being part of teams where passion and a friendly atmosphere drive productivity and creativity.
+- 🏢 I'm a Software Engineer.
+- 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with Android Development, Java, Kotlin, and Flutter, or anything related to Mobile App development.
+- 🚀 I have over a year of experience developing mobile applications, and I’m proficient in using Flutter to create high-performance, cross-platform apps for Android and iOS.
+- 👨‍💻 I’m currently advancing my skills in Native Android Development and Flutter App Development with enjoy being part of teams where passion and a friendly atmosphere drive productivity and creativity.
 
 <br>
 
