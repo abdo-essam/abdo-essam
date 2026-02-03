@@ -1,14 +1,17 @@
 <!-- Animated Header -->
 <div align="center">
   <a href="https://github.com/abdo-essam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=2D77DC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Abdelrahman+Essam;%F0%9F%93%B1+Mobile+Application+Developer;%F0%9F%8F%A6+Currently+%40+Banque+Misr" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=2D77DC&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=140&lines=%F0%9F%91%8B+Hey+there!+I'm+Abdelrahman+Essam;%F0%9F%93%B1+Mobile+Application+Developer+%40+Banque+Misr;%F0%9F%9A%80+Building+Scalable+Android+%26+Flutter+Apps" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/3%2B_Years_Experience-238636?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/Android_|_Flutter-2D77DC?style=for-the-badge" alt="Stack"/>
+  <img src="https://img.shields.io/badge/Android_Native-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-FF6B35?style=for-the-badge" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/ML_Integration-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML"/>
 </div>
 
 <br/>
@@ -107,7 +110,7 @@ object AbdelrahmanEssam {
 <td width="50%">
 
 ### 🚚 VastMove vSales
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/abdo-essam/VastMove-vSales)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.vastmove.vsales)
 
 Van sales app with real-time inventory tracking, geo-mapping integration & mobile invoice printing.
 
@@ -117,8 +120,8 @@ Van sales app with real-time inventory tracking, geo-mapping integration & mobil
 <td width="50%">
 
 ### 🎬 Novix
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/abdo-essam/Novix)
-![Stars](https://img.shields.io/github/stars/abdo-essam/Novix?style=social)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/LondonSquad/Novix)
+![Stars](https://img.shields.io/github/stars/LondonSquad/Novix?style=social)
 
 Movies & TV tracking with **ML content filtering**. Achieved **83% APK reduction** (101MB → 17.6MB) & **99.5% crash-free rate**.
 
@@ -141,9 +144,9 @@ Real-time video chat application with random user matching using **WebRTC** peer
 <td width="50%">
 
 ### 🛒 Sellio
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/abdo-essam/Sellio)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/Shanghai-Squad/sellio_mobile)
 
-E-commerce app - **Team Lead** managing **13 Android + 4 Backend developers**.
+Full-featured e-commerce platform. Led a cross-functional team of **17 developers** (Android & Backend) delivering end-to-end features.
 
 **Tech:** `Flutter` `Bloc` `Clean Architecture` `Google Maps` `SOLID`
 
@@ -154,7 +157,7 @@ E-commerce app - **Team Lead** managing **13 Android + 4 Backend developers**.
 <td width="50%">
 
 ### ☁️ Cloud Quizzer
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/abdo-essam/CloudQuizzer)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-2D77DC?style=for-the-badge&logo=github)](https://github.com/abdo-essam/Cloud_Quizzer_App)
 
 AWS, Google Cloud & Azure certification preparation quiz app with progress tracking.
 
@@ -254,15 +257,15 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo-essam&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdo-essam&theme=nord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 <br/>
 
-## 🎓 Education & Achievements
+## 🎓 Education & Certifications
 
 <div align="center">
 <table>
