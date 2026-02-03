@@ -27,9 +27,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<table>
-<tr>
-<td width="50%">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-essam&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=ffffff&langs_count=6" alt="Top Languages"/>
 
 ```kotlin
 object AbdelrahmanEssam {
@@ -48,9 +46,6 @@ object AbdelrahmanEssam {
 }
 ```
 
-</td>
-<td width="50%">
-
 ### 🎯 Quick Highlights
 
 🏦 **Mobile Developer** @ **Banque Misr**
@@ -67,36 +62,36 @@ object AbdelrahmanEssam {
 
 📲 Published apps on **Google Play Store**
 
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
 ## 🔗 Connect With Me
 
 <div align="center">
+  
   <a href="https://linkedin.com/in/abdo-essam" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:abdo-essam@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="Email"/>
+    <img src="https://img.shields.io/badge/Send_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="40" alt="Email"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/abdo-essam" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/201001076035" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" alt="WhatsApp"/>
   </a>
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Open_to_Opportunities-238636?style=flat-square" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Available_for_Freelance-2D77DC?style=flat-square" alt="Freelance"/>
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/📍_Cairo,_Egypt-1a1b27?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/💼_Open_to_Opportunities-238636?style=flat-square" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/🚀_Available_for_Freelance-2D77DC?style=flat-square" alt="Freelance"/>
+  
 </div>
 
 <br/>
@@ -222,46 +217,95 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 <div align="center">
 
-### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="Android" />
+<br>Android
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+<br>Kotlin
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+<br>Dart
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gradle" width="48" height="48" alt="Gradle" />
+<br>Gradle
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
 
-### 🏗️ Architecture & Patterns
+<br/>
+
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-238636?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-238636?style=for-the-badge)
 ![SOLID](https://img.shields.io/badge/SOLID-238636?style=for-the-badge)
 ![Bloc](https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-2196F3?style=for-the-badge)
-
-### 🔧 Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🗄️ Databases
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### 🤖 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TF_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-
-### 🛠️ Tools & Practices
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-238636?style=for-the-badge&logo=githubactions&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-238636?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-238636?style=for-the-badge)
 
 </div>
 
@@ -282,26 +326,12 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 <br/>
 
-<!-- Contribution Streak -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=abdo-essam&theme=dark&hide_border=true&background=1A1B27&stroke=238636&ring=238636&fire=FF6B35&currStreakLabel=238636&sideLabels=238636&currStreakNum=C3E88D&dates=70A5FD&sideNums=C3E88D&border=1A1B27" alt="GitHub Streak Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-essam&theme=github_dark" alt="Profile Details"/>
-
-</div>
+<!-- Contribution Streak - All Green -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=abdo-essam&theme=dark&hide_border=true&background=1A1B27&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&currStreakNum=238636&dates=70A5FD&sideNums=238636" alt="GitHub Streak Stats" />
 
 <br/>
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎓 Education | 🏅 Bootcamps | 👨‍🏫 Teaching |
-|:---:|:---:|:---:|
-| **Cairo University** | **The Chance Android** | **50+ Students** |
-| Faculty of Computers & AI | Advanced Android Training | Mentored in Mobile Dev |
-| Graduation Project: **A+** | Kotlin, Compose, Clean Arch | **5+ Secured Jobs** |
-| | | |
-| **Flutter Bootcamp** | **Reload Academy** | **10+ Sessions** |
-| Sprints × U.S. Embassy | Android Development | Technical Workshops |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-essam&theme=github_dark" alt="Profile Details"/>
 
 </div>
 
@@ -317,8 +347,13 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 <br/>
 
-- 👨‍🏫 **Teaching Assistant** @ Egypt University of Informatics (EUI)
-- 📚 **Flutter Instructor** @ European Universities in Egypt (London University)
+<div align="center">
+  
+👨‍🏫 **Teaching Assistant** @ Egypt University of Informatics (EUI)
+
+📚 **Flutter Instructor** @ European Universities in Egypt (London University)
+
+</div>
 
 <br/>
 
