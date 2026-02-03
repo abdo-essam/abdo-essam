@@ -8,7 +8,7 @@
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Android Development, Java, Kotlin, and Flutter, or anything related to Mobile App development.
-- 🚀 I have over a year of experience developing mobile applications, and I’m proficient in using Flutter to create high-performance, cross-platform apps for Android and iOS.
+- 🚀 I have over a 3 years of experience developing mobile applications, and I’m proficient in using Flutter to create high-performance, cross-platform apps for Android and iOS.
 - 👨‍💻 I’m currently advancing my skills in Native Android Development and Flutter App Development with enjoy being part of teams where passion and a friendly atmosphere drive productivity and creativity.
 
 ### Connect with Me :
