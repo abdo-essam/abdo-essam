@@ -83,6 +83,8 @@ object AbdelrahmanEssam {
 </tr>
 </table>
 
+<br/>
+
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -291,11 +293,19 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <br>MongoDB
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
 </td>
 </tr>
 <tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br>GCP
+</td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 <br>TensorFlow
@@ -313,27 +323,11 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <br>Postman
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-<br>IntelliJ
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
 <br>GraphQL
@@ -347,8 +341,16 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <br>C++
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-<br>GCP
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
@@ -367,36 +369,6 @@ Explore more of my work including banking solutions, logistics apps, and open so
 ![TDD](https://img.shields.io/badge/TDD-238636?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-238636?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
-
-</div>
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-<br>Figma
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-238636?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-238636?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-238636?style=for-the-badge)
-![Bloc](https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=for-the-badge)
-![TDD](https://img.shields.io/badge/TDD-238636?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-238636?style=for-the-badge)
 
 </div>
 
