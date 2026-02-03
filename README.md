@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Clean_Architecture-FF6B35?style=for-the-badge" alt="Architecture"/>
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -39,10 +39,10 @@ object AbdelrahmanEssam {
 - 📱 **3+ years** building Android & Flutter applications
 - 🏗️ Expert in **Clean Architecture** & **SOLID principles**
 - 🤖 Experience integrating **ML models** (TensorFlow, PyTorch, ONNX)
-- � **1st Place** in The Chance Android Bootcamp Squad Competition
+- 🏆 **1st Place** in The Chance Android Bootcamp Squad Competition
 - 👨‍🏫 **Instructor & TA** mentoring **50+ students** in mobile development
 
----
+<br/>
 
 ## 🔗 Connect With Me
 
@@ -58,7 +58,7 @@ object AbdelrahmanEssam {
   </a>
 </div>
 
----
+<br/>
 
 ## 💼 Experience
 
@@ -97,7 +97,7 @@ object AbdelrahmanEssam {
 </table>
 </div>
 
----
+<br/>
 
 ## 🎯 Featured Projects
 
@@ -175,7 +175,7 @@ Explore more of my work including banking solutions, logistics apps, and open so
 </table>
 </div>
 
----
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -224,18 +224,13 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 </div>
 
----
+<br/>
 
 ## 📊 GitHub Statistics
 
 <h3 align="center">📈 Detailed Stats</h3>
 
 <div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&custom_title=Abdelrahman's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=2d77dc&line=2d77dc&point=c3e88d&area_color=2d77dc&title_color=2d77dc&area=true" alt="Contribution Graph" />
-
-<br/>
 
 <!-- GitHub Stats Cards -->
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdo-essam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=2d77dc&icon_color=2d77dc&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="GitHub Stats"/>
@@ -249,15 +244,23 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 </div>
 
----
+<br/>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&theme=github-compact&hide_border=true&bg_color=0d1117&color=238636&line=238636&point=ffffff&area=true&area_color=238636" alt="Contribution Graph"/>
+</p>
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdo-essam&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abdo-essam&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
----
+<br/>
 
 ## 🎓 Education & Achievements
 
@@ -278,7 +281,7 @@ Explore more of my work including banking solutions, logistics apps, and open so
 </table>
 </div>
 
----
+<br/>
 
 ## 👨‍🏫 Community & Teaching
 
@@ -293,12 +296,12 @@ Explore more of my work including banking solutions, logistics apps, and open so
 - 👨‍🏫 **Teaching Assistant** @ Egypt University of Informatics (EUI)
 - 📚 **Flutter Instructor** @ European Universities in Egypt (London University)
 
----
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdo-essam&style=for-the-badge&color=2D77DC&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/abdo-essam">abdo-essam</a> with �</i>
+  <i>⭐ From <a href="https://github.com/abdo-essam">abdo-essam</a> with 💙</i>
 </p>
