@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/abdo-essam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=30&lines=Building+scalable+mobile+solutions+for+enterprise+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=30&lines=Building+scalable+mobile+solutions+for+enterprise+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -27,51 +27,49 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ```kotlin
 object AbdelrahmanEssam {
-    
     val role = "Mobile Application Developer"
     val company = "Banque Misr 🏦"
     val location = "Cairo, Egypt 🇪🇬"
     
-    val education = mapOf(
-        "degree" to "B.A. Computer Science",
-        "university" to "Cairo University",
-        "graduationProject" to "A+ (Li-Fi Underwater Communication)"
-    )
-    
-    val skills = listOf(
-        "Android Native" to "Kotlin, Java, Jetpack Compose",
-        "Cross-Platform" to "Flutter, Dart, Compose Multiplatform",
-        "Architecture" to "Clean Architecture, MVVM, MVI",
-        "AI/ML" to "TensorFlow Lite, PyTorch, ONNX"
-    )
-    
-    val passions = listOf(
-        "🚀 Building pixel-perfect mobile experiences",
-        "🏗️ Designing scalable architectures",
-        "👨‍🏫 Mentoring the next generation of developers",
-        "📚 Continuous learning & knowledge sharing"
+    val expertise = listOf(
+        "Android Native (Kotlin/Java)",
+        "Flutter & Dart",
+        "Jetpack Compose",
+        "Compose Multiplatform",
+        "Clean Architecture & MVVM",
+        "ML Integration"
     )
 }
 ```
 
-</div>
+</td>
+<td width="50%">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=ffffff&langs_count=6" width="320"/>
+### 🎯 Quick Highlights
 
-### 🎯 Quick Facts
+🏦 **Mobile Developer** @ **Banque Misr**
 
-- 🏦 **Mobile Developer** at **Banque Misr**
-- 🎓 **Cairo University** Graduate (Project: **A+**)
-- 📱 **3+ years** in Android & Flutter development
-- 🏗️ Expert in **Clean Architecture** & **SOLID**
-- 🤖 Experience with **ML model integration**
-- 👨‍🏫 **50+ students** mentored in mobile dev
+🎓 **Cairo University** - CS Graduate (**A+** Project)
 
-<br clear="right"/>
+📱 **3+ years** building production mobile apps
+
+🏗️ Expert in **Clean Architecture** & **SOLID Principles**
+
+🤖 **ML Integration** experience (TensorFlow, ONNX)
+
+👨‍🏫 **50+ students** mentored in mobile development
+
+📲 Published apps on **Google Play Store**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -271,25 +269,21 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 ## 📊 GitHub Statistics
 
-<!-- Contribution Graph First -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&theme=github-compact&hide_border=true&bg_color=0d1117&color=238636&line=238636&point=ffffff&area=true&area_color=238636" alt="Contribution Graph"/>
-</p>
-
 <div align="center">
 
-<!-- GitHub Stats Cards - Green Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdo-essam&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=ffffff&rank_icon=percentile" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&custom_title=Abdelrahman's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=238636&line=238636&point=c3e88d&area_color=238636&title_color=238636&area=true" alt="Contribution Graph" />
 
 <br/>
 
-<!-- Contribution Streak - Green Theme -->
-<img src="https://streak-stats.demolab.com/?user=abdo-essam&theme=dark&hide_border=true&background=0d1117&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&currStreakNum=ffffff&dates=888888&sideNums=ffffff" alt="GitHub Streak Stats" />
+<!-- GitHub Stats Cards -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdo-essam&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=238636&icon_color=238636&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=238636&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 <br/>
 
-<!-- Profile Summary -->
+<!-- Contribution Streak -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=abdo-essam&theme=dark&hide_border=true&background=1A1B27&stroke=238636&ring=238636&fire=FF6B35&currStreakLabel=238636&sideLabels=238636&currStreakNum=C3E88D&dates=70A5FD&sideNums=C3E88D&border=1A1B27" alt="GitHub Streak Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-essam&theme=github_dark" alt="Profile Details"/>
 
 </div>
