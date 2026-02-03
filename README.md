@@ -25,9 +25,7 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-essam&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=ffffff&langs_count=6" alt="Top Languages"/>
+## 👨‍💻 About Me
 
 ```kotlin
 object AbdelrahmanEssam {
@@ -46,25 +44,44 @@ object AbdelrahmanEssam {
 }
 ```
 
+<table>
+<tr>
+<td>
+
 ### 🎯 Quick Highlights
 
-🏦 **Mobile Developer** @ **Banque Misr**
+| | |
+|---|---|
+| 🏦 | **Mobile Developer** @ **Banque Misr** |
+| 🎓 | **Cairo University** - CS Graduate (**A+** Project) |
+| 📱 | **3+ years** building production mobile apps |
+| 🏗️ | Expert in **Clean Architecture** & **SOLID** |
+| 🤖 | **ML Integration** (TensorFlow, PyTorch, ONNX) |
+| 👨‍🏫 | **50+ students** mentored in mobile dev |
+| 📲 | Published apps on **Google Play Store** |
+| 🔧 | **CI/CD**, **TDD**, and **Agile** practices |
 
-🎓 **Cairo University** - CS Graduate (**A+** Project)
+</td>
+<td>
 
-📱 **3+ years** building production mobile apps
+### 📊 Top Languages
 
-🏗️ Expert in **Clean Architecture** & **SOLID Principles**
+![Kotlin](https://img.shields.io/badge/Kotlin-35%25-7F52FF?style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-30%25-0175C2?style=flat-square)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=flat-square)
+![Other](https://img.shields.io/badge/Other-5%25-gray?style=flat-square)
 
-🤖 **ML Integration** experience (TensorFlow, ONNX)
+### 🔥 Current Focus
 
-👨‍🏫 **50+ students** mentored in mobile development
+- 🚀 **Compose Multiplatform** for iOS & Android
+- 🏗️ **Modular Architecture** at scale
+- 🤖 **On-device ML** optimization
+- 📚 **Mentoring** the next generation
 
-📲 Published apps on **Google Play Store**
-
-<br clear="right"/>
-
-<br/>
+</td>
+</tr>
+</table>
 
 ## 🔗 Connect With Me
 
@@ -240,6 +257,10 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <br>Dart
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+<br>Swift
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
@@ -266,6 +287,10 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <br>MySQL
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
 <br>AWS
 </td>
@@ -278,6 +303,72 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
 <br>PyTorch
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+<br>IntelliJ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br>GCP
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+</tr>
+</table>
+
+<br/>
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-238636?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-238636?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-238636?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-238636?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-238636?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-238636?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge)
+
+</div>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
