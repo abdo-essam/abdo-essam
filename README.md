@@ -1,12 +1,12 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:0d1117&height=200&section=header&text=Abdelrahman%20Essam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20|%20Android%20•%20Flutter&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:0d1117&height=200&section=header&text=Abdelrahman%20Essam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Application%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+beautiful+mobile+experiences+%F0%9F%93%B1;3%2B+years+of+Android+%26+Flutter+development;Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Mobile+Developer+%40+Banque+Misr+%F0%9F%8F%A6;3%2B+Years+in+Android+%26+Flutter+Development;Clean+Architecture+%7C+Jetpack+Compose+%7C+ML+Integration" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,26 +16,32 @@
 
 ```kotlin
 object AbdelrahmanEssam {
-    val role = "Mobile Developer"
+    val role = "Mobile Application Developer"
+    val company = "Banque Misr"
+    val education = "B.A. Computer Science - Cairo University"
     val experience = "3+ years"
-    val languages = listOf("Kotlin", "Java", "Dart")
-    val specializations = listOf(
-        "Native Android Development",
-        "Flutter Cross-Platform Apps",
-        "Clean Architecture & MVVM"
+    
+    val expertise = listOf(
+        "Android Native (Kotlin/Java)",
+        "Flutter Cross-Platform",
+        "Jetpack Compose & Compose Multiplatform",
+        "Clean Architecture & MVVM",
+        "ML Integration (TensorFlow, ONNX)"
     )
     
-    fun currentFocus() = "Building scalable mobile solutions"
+    val currentFocus = "Building scalable banking & enterprise mobile solutions"
 }
 ```
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Developer GIF"/>
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" alt="Developer GIF"/>
 
-- 🎓 **CS Graduate** passionate about mobile development
-- 📱 **3+ years** crafting Android & Flutter applications
-- 🏗️ Advocate of **Clean Architecture** & **SOLID principles**
-- 🚀 Currently deepening expertise in **Jetpack Compose**
-- 🤝 Love collaborating in **passionate, creative teams**
+- � **Mobile Developer** at **Banque Misr** (Compose Multiplatform)
+- 🎓 **Cairo University** - Faculty of Computers & AI
+- 📱 **3+ years** building Android & Flutter applications
+- 🏗️ Expert in **Clean Architecture** & **SOLID principles**
+- 🤖 Experience integrating **ML models** (TensorFlow, ONNX)
+- 🎯 Achieved **1st place** in The Chance Android Bootcamp
+- 👨‍🏫 **Instructor & TA** mentoring 50+ students in mobile dev
 - 💬 Ask me about **Android, Kotlin, Flutter, or Mobile Architecture**
 
 <br clear="right"/>
@@ -51,10 +57,63 @@ object AbdelrahmanEssam {
   <a href="mailto:abdo-essam@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.hackerrank.com/abdoessam" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  <a href="https://github.com/abdo-essam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Banque_Misr-0066B2?style=for-the-badge" alt="Banque Misr"/><br/>
+      <sub><b>Jul 2025 – Present</b></sub>
+    </td>
+    <td>
+      <b>Mobile Application Developer</b><br/>
+      Delivering features using <b>Compose Multiplatform</b> for iOS & Android in Agile/Scrum
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Nile_United-2E7D32?style=for-the-badge" alt="Nile United"/><br/>
+      <sub><b>Jun 2024 – Jul 2025</b></sub>
+    </td>
+    <td>
+      <b>Android Developer</b><br/>
+      Built logistics & warehouse apps, managed Play Store deployment
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Freelance-9C27B0?style=for-the-badge" alt="Freelance"/><br/>
+      <sub><b>Jul 2022 – Jun 2024</b></sub>
+    </td>
+    <td>
+      <b>Mobile Developer</b><br/>
+      Delivered Android & Flutter apps for clients across multiple domains
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🚚 VastMove vSales** | Van sales app with real-time inventory, geo-mapping & mobile printing | `Kotlin` `MVVM` `Google Maps` `Printer SDK` |
+| **🎬 Novix** | Movies & TV tracking with ML content filtering. **83% APK size reduction** (101MB → 17.6MB) | `Jetpack Compose` `Clean Architecture` `TensorFlow Lite` |
+| **📹 RingoPhone** | Real-time video chat with WebRTC peer-to-peer connections | `Kotlin` `Jetpack Compose` `WebRTC` `Firebase` |
+| **🛒 Sellio** | E-commerce app (Led team of **13 Android + 4 Backend devs**) | `Flutter` `Bloc` `Clean Architecture` `Google Maps` |
+| **☁️ Cloud Quizzer** | AWS, GCP & Azure certification prep quiz app | `Flutter` `Dart` `SQLite` `Cubit` |
+
+</div>
 
 ---
 
@@ -74,13 +133,25 @@ object AbdelrahmanEssam {
 </details>
 
 <details>
+<summary><b>🏗️ Architecture & Patterns</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/SOLID-4CAF50?style=for-the-badge" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/Bloc_/_Cubit-8B5CF6?style=for-the-badge" alt="Bloc"/>
+  <img src="https://img.shields.io/badge/Design_Patterns-2196F3?style=for-the-badge" alt="Design Patterns"/>
+</p>
+</details>
+
+<details>
 <summary><b>🔧 Backend & Cloud</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 </details>
 
@@ -96,14 +167,26 @@ object AbdelrahmanEssam {
 </details>
 
 <details>
-<summary><b>🛠️ Tools & Design</b></summary>
+<summary><b>🛠️ Tools & Practices</b></summary>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/TDD-E34F26?style=for-the-badge" alt="TDD"/>
+  <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Machine Learning</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
 </p>
 </details>
 
@@ -135,6 +218,38 @@ object AbdelrahmanEssam {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&theme=github-compact&hide_border=true&bg_color=0d1117&color=238636&line=238636&point=ffffff&area=true&area_color=238636" alt="Contribution Graph"/>
 </p>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+  <tr>
+    <td align="center" width="80">🎓</td>
+    <td><b>Cairo University</b> - Faculty of Computers & AI<br/><sub>B.A. Information Technology | 2018 – 2022 | Graduation Project: A+</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80">🏆</td>
+    <td><b>The Chance Android Bootcamp</b><br/><sub>1st Place in Squad Competition | 2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80">📜</td>
+    <td><b>Flutter Development Bootcamp</b><br/><sub>Sprints × U.S. Embassy | 2024 – 2025</sub></td>
+  </tr>
+</table>
+
+---
+
+## 👨‍🏫 Community & Teaching
+
+<p align="center">
+  <img src="https://img.shields.io/badge/50%2B_Students_Mentored-238636?style=for-the-badge" alt="Students Mentored"/>
+  <img src="https://img.shields.io/badge/5%2B_Secured_Jobs-0066B2?style=for-the-badge" alt="Jobs Secured"/>
+  <img src="https://img.shields.io/badge/10%2B_Technical_Sessions-9C27B0?style=for-the-badge" alt="Sessions Delivered"/>
+</p>
+
+- 👨‍🏫 **Teaching Assistant** @ Egypt University of Informatics (EUI)
+- 📚 **Flutter Instructor** @ European Universities in Egypt (London University)
 
 ---
 
