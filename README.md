@@ -198,7 +198,7 @@ Real-time video chat application with random user matching using **WebRTC** peer
 ### 🛒 Sellio
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-238636?style=for-the-badge&logo=github)](https://github.com/Shanghai-Squad/sellio_mobile)
 
-Full-featured e-commerce platform. Led a cross-functional team of **17 developers** (Android & Backend) delivering end-to-end features.
+Full-featured e-commerce platform. (Android & Backend) delivering end-to-end features.
 
 **Tech:** `Flutter` `Bloc` `Clean Architecture` `Google Maps` `SOLID`
 
