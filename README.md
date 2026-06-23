@@ -387,12 +387,9 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdo-essam&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=238636&icon_color=238636&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="GitHub Stats"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=238636&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
-<br/>
-
-<!-- Contribution Streak - All Green -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=abdo-essam&theme=dark&hide_border=true&background=1A1B27&stroke=238636&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=238636&currStreakNum=238636&dates=70A5FD&sideNums=238636" alt="GitHub Streak Stats" />
-
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdo-essam/abdo-essam/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-essam&theme=github_dark" alt="Profile Details"/>
 
