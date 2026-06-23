@@ -388,7 +388,10 @@ Explore more of my work including banking solutions, logistics apps, and open so
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=238636&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdo-essam/abdo-essam/output/github-contribution-grid-snake-dark.svg" />
+  <img
+    src="https://streak-stats.demolab.com?user=abdo-essam&theme=dark&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A"
+    alt="GitHub Streak"
+  />
 </p>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdo-essam&theme=github_dark" alt="Profile Details"/>
