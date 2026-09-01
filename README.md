@@ -378,15 +378,6 @@ Explore more of my work including banking solutions, logistics apps, and open so
 
 <div align="center">
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdo-essam&custom_title=Abdelrahman's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=1a1b27&color=238636&line=238636&point=c3e88d&area_color=238636&title_color=238636&area=true" alt="Contribution Graph" />
-
-<br/>
-
-<!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdo-essam&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=238636&icon_color=238636&text_color=c3e88d&rank_icon=percentile&cache_seconds=1800" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdo-essam&layout=compact&theme=dark&hide_border=true&bg_color=1a1b27&title_color=238636&text_color=c3e88d&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=abdo-essam&theme=dark&hide_border=true&background=0D1117&ring=F7931A&fire=F7931A&currStreakLabel=F7931A"
